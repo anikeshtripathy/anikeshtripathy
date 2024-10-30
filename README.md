@@ -4,14 +4,25 @@
 
 ### 📊 Data Analyst | 💡 Machine Learning Enthusiast | 🚀 AI Innovator
 
-I'm a **Data Analyst** and **Machine Learning Enthusiast** with a passion for extracting insights and building intelligent systems that make a real-world impact. My work centers around data-driven storytelling and developing AI solutions that meet practical needs.
+<div style="font-size: 30px; color: #333; text-align: center; background: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 10px;">
+    <span style="animation: fadeIn 0.5s 0s forwards;">Hi there, I'm Anikesh Tripathy!</span>
+    <br>
+    <span style="animation: fadeIn 0.5s 1s forwards;">📊 Data Analyst | 💡 Machine Learning Enthusiast | 🚀 AI Innovator</span>
+</div>
+
+<style>
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+</style>
 
 ---
 
 ### 🔍 About Me
 
 - 📌 **Current Focus**: Leveraging data analytics and machine learning for impactful projects
-- 🛠️ **Core Skills**: Python, Power BI, NLP, Predictive Modeling, Data Processing, Statistical Analysis
+- 🛠️ **Core Skills**: Python, Power BI, NLP, Predictive Modeling, Data Processing, Statistical Analysis, MySQL
 - 🌱 **Learning Goals**: Enhancing my NLP skills and diving deeper into Neural Network Architectures
 - 🎓 **Background**: Strong foundation in Data Science with hands-on experience in AI-driven projects
 
@@ -35,6 +46,7 @@ I'm a **Data Analyst** and **Machine Learning Enthusiast** with a passion for ex
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
@@ -42,9 +54,9 @@ I'm a **Data Analyst** and **Machine Learning Enthusiast** with a passion for ex
 
 ### 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/anikeshtripathy) – Let’s discuss data and AI!
-- [GitHub](https://github.com/anikeshtripathy) – See my code and collaborate on projects
-- 📫 **Email**: anikesh@example.com <!-- Replace with your actual email -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikeshtripathy) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeshtripathy)
+- 📫 **Email**: [anikeshtripathy03@gmail.com](mailto:anikeshtripathy03@gmail.com)
 
 ---
 
