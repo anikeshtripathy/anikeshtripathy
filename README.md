@@ -1,6 +1,6 @@
 # Hi there, I'm Anikesh Tripathy! 👋
 
-![Banner](https://user-images.githubusercontent.com/XXXXXX/banner.png) <!-- Add a custom banner image -->
+![Banner]((https://ibb.co/q7BbWzj)) <!-- Add a custom banner image -->
 
 ### 📊 Data Analyst | 💡 Machine Learning Enthusiast | 🚀 AI Innovator
 
