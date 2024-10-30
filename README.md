@@ -9,7 +9,7 @@
 ### 🔍 About Me
 
 - 📌 **Current Focus**: Leveraging data analytics and machine learning for impactful projects
-- 🛠️ **Core Skills**: Python, Power BI, NLP, Predictive Modeling, Data Processing, Statistical Analysis, MySQL
+- 🛠️ **Core Skills**: Python, Power BI, NLP, Predictive Modeling, Data Processing, Statistical Analysis, MySQL, Several Machine Learning Algorithms
 - 🌱 **Learning Goals**: Enhancing my NLP skills and diving deeper into Neural Network Architectures
 - 🎓 **Background**: Strong foundation in Data Science with hands-on experience in AI-driven projects
 
@@ -37,13 +37,24 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
+#### Machine Learning Algorithms
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0D4D92?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-0A1D4B?style=for-the-badge&logo=python&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-36B5D6?style=for-the-badge&logo=python&logoColor=white)
+
+#### NLP Libraries
+![NLTK](https://img.shields.io/badge/NLTK-8D5A91?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-6C4A98?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-7B8D99?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 ### 💬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anikeshtripathy) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anikeshtripathy)
-- 📫 **Email**: [anikeshtripathy03@gmail.com](mailto:anikeshtripathy03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikeshtripathy03@gmail.com)
 
 ---
 
