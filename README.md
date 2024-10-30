@@ -4,19 +4,6 @@
 
 ### 📊 Data Analyst | 💡 Machine Learning Enthusiast | 🚀 AI Innovator
 
-<div style="font-size: 30px; color: #333; text-align: center; background: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 10px;">
-    <span style="animation: fadeIn 0.5s 0s forwards;">Hi there, I'm Anikesh Tripathy!</span>
-    <br>
-    <span style="animation: fadeIn 0.5s 1s forwards;">📊 Data Analyst | 💡 Machine Learning Enthusiast | 🚀 AI Innovator</span>
-</div>
-
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-</style>
-
 ---
 
 ### 🔍 About Me
