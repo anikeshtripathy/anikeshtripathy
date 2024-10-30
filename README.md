@@ -48,8 +48,8 @@ I'm a **Data Analyst** and **Machine Learning Enthusiast** with a passion for ex
 
 ---
 
-### 📈 GitHub Stats
-![Anikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikeshtripathy&show_icons=true&theme=radical)
+### 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/anikesh03?theme=dark&font=GeosansLight)
 
 ---
 
